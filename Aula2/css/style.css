@@ -1,0 +1,130 @@
+nav {
+
+	background-color:#8AAA80;
+	height: 49px;
+	margin-bottom: 7px;
+
+}
+
+nav a {
+
+	color: white;
+	text-decoration: none;
+
+}
+
+nav ul {
+
+	margin-left: -2.3%;
+
+}
+
+nav li {
+
+	float: left;
+	padding: 15px 20px 15px 20px;
+	list-style-type: none;
+
+}
+
+nav li:hover {
+
+	background-color: green;
+
+}
+
+aside {
+
+	background-color: #D3D3D3;
+	height: 81%;
+	width: 15%;
+	float: left;
+	margin-bottom: 7px;
+
+}
+
+aside ul {
+
+	margin-left: -20px;
+
+}
+
+aside ul li {
+
+	margin-bottom: 5px;
+	list-style-type: none;
+
+}
+
+aside ul li a {
+
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+section {
+
+	float: left;
+	margin-left: 10px;
+	width: 80%;
+
+}
+
+footer {
+
+	height: 50px;
+	background-color: gray;
+	clear: both;
+
+}
+
+/*//////////////////////////////////////////////////////////////*/
+
+.titulo {
+
+	font-size: 30px;
+
+}
+
+.subTitulo {
+
+	font-size: 20px;
+	padding-top: 7px;
+	color: #616161;
+
+}
+
+.item-galeria img {
+
+	width: 100%;
+
+}
+
+.item-galeria {
+
+	float: left;
+	width: 250px;
+	margin-right: 1%;
+
+}
+
+.box {
+
+	width: 92.5%;
+	padding: 8px 8px 8px 8px;
+	background-color: white;
+	border-style: solid;
+    border-color: black;
+	border-radius: 2px;
+	border-width: 1px;
+	text-align: center;
+
+}
+
+.box p {
+
+	color: black;
+
+}
